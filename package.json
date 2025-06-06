@@ -1,0 +1,24 @@
+{
+  "name": "moshify_mycode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afkarahamed/moshified_self.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afkarahamed/moshified_self/issues"
+  },
+  "homepage": "https://github.com/afkarahamed/moshified_self#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.2",
+    "parcel-bundler": "^1.12.4"
+  }
+}
